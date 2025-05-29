@@ -1,4 +1,6 @@
+--------------------------------------------------
 Tema 4 - Diferenciación e Integración Numérica
+--------------------------------------------------
 
 En este tema se abordan métodos numéricos utilizados para aproximar derivadas e integrales definidas de funciones. Estas técnicas son útiles cuando no es posible obtener una solución analítica, o cuando se trabaja con datos discretos.
 
