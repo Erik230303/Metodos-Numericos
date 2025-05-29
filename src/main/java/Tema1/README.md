@@ -1,4 +1,6 @@
-TEMA 1 - ERRORES EN MÉTODOS NUMÉRICOS
+--------------------------------------------------
+TEMA 1 - Errores En Métodos Numéricos
+--------------------------------------------------
 
 Este tema trata sobre los distintos tipos de errores que pueden ocurrir al realizar cálculos numéricos. Estos errores afectan la precisión de los resultados obtenidos y es importante identificarlos y entender su origen.
 
