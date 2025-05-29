@@ -18,7 +18,7 @@ Es un método directo que transforma la matriz del sistema en una matriz triangu
 
 Seudocódigo:
 
-```plaintext
+```
 Entradas:
     A: matriz de coeficientes (n x n)
     b: vector independiente
@@ -48,7 +48,7 @@ Es una extensión de la eliminación Gaussiana que lleva la matriz aumentada [A|
 
 Seudocódigo:
 
-```plaintext
+```
 
 Entradas:
     A: matriz aumentada (n x (n+1))
@@ -70,7 +70,7 @@ Método iterativo que mejora progresivamente la solución usando los valores má
 
 Seudocódigo:
 
-```plaintext
+```
 Entradas:
     A: matriz de coeficientes (n x n)
     b: vector independiente
@@ -99,7 +99,7 @@ Método iterativo que calcula una nueva aproximación de la solución utilizando
 
 Seudocódigo:
 
-```plaintext
+```
 Entradas:
     A: matriz de coeficientes (n x n)
     b: vector independiente
