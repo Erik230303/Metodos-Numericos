@@ -22,7 +22,7 @@ Fórmula centrada:
 
 Seudocódigo:
 
-```plaintext
+```
 Entradas:
     f(x): función
     x: punto donde se evalúa la derivada
@@ -43,7 +43,7 @@ f'(x_i) ≈ (f(x-2h) - 8f(x-h) + 8f(x+h) - f(x+2h)) / (12h)
 
 Seudocódigo:
 
-```plaintext
+```
 Entradas:
     f(x): función
     x: punto donde se evalúa la derivada
@@ -64,7 +64,7 @@ Fórmula:
 
 Seudocódigo:
 
-```plaintext
+```
 Entradas:
     f(x): función
     a, b: límites de integración
@@ -90,7 +90,7 @@ Fórmula:
 
 Seudocódigo:
 
-```plaintext
+```
 Entradas:
     f(x): función
     a, b: límites de integración
@@ -121,7 +121,7 @@ Donde x_i son los puntos de evaluación y w_i los pesos asociados.
 
 Seudocódigo (para 2 puntos):
 
-```plaintext
+```
 Entradas:
     f(x): función
     a, b: límites de integración
