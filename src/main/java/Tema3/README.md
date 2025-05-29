@@ -1,4 +1,6 @@
+--------------------------------------------------
 Tema 3 - Métodos para Resolver Sistemas de Ecuaciones Lineales
+--------------------------------------------------
 
 En este tema se estudian diversos métodos numéricos utilizados para encontrar las soluciones de sistemas de ecuaciones lineales del tipo Ax = b. Estos métodos se clasifican en directos, que buscan una solución exacta en un número finito de pasos, e iterativos, que generan una sucesión de aproximaciones que convergen a la solución.
 
