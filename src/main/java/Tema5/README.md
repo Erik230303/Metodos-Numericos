@@ -23,7 +23,7 @@ Fórmula:
 
 Seudocódigo:
 
-```plaintext
+```
 Entradas:
     x[]: arreglo de n+1 puntos x_i
     y[]: arreglo de n+1 puntos y_i
@@ -50,7 +50,7 @@ P(x) = f[x₀] + f[x₀,x₁](x - x₀) + f[x₀,x₁,x₂](x - x₀)(x - x₁) 
 
 Seudocódigo:
 
-```plaintext
+```
 Entradas:
     x[]: arreglo de n+1 puntos x_i
     y[]: arreglo de n+1 puntos y_i
@@ -79,7 +79,7 @@ Ajusta un polinomio de grado n que pasa exactamente por n+1 puntos usando un sis
 
 Seudocódigo:
 
-```plaintext
+```
 Entradas:
     x[]: arreglo de n+1 puntos x_i
     y[]: arreglo de n+1 puntos y_i
@@ -102,7 +102,7 @@ a = (Σy - bΣx) / n
 
 Seudocódigo:
 
-```plaintext
+```
 Entradas:
     x[]: arreglo de n puntos
     y[]: arreglo de n puntos
@@ -126,7 +126,7 @@ Ajusta una función (puede ser polinómica, exponencial, etc.) que minimiza la s
 
 Seudocódigo para regresión polinómica:
 
-```plaintext
+```
 Entradas:
     x[]: arreglo de n puntos
     y[]: arreglo de n puntos
