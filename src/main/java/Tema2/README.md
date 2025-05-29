@@ -25,7 +25,7 @@ Consiste en dividir el intervalo [a, b] en mitades sucesivas y elegir el subinte
 
 Seudocódigo:
 
-```plaintext
+```
 
 Entradas:
     f(x): función continua
@@ -56,7 +56,7 @@ Transforma f(x) = 0 en x = g(x) y se itera como x_{n+1} = g(x_n). Se necesita qu
 
 Seudocódigo:
 
-```plaintext
+```
 Entradas:
     g(x): función transformada
     x0: valor inicial
@@ -85,7 +85,7 @@ Fórmula:
 
 Seudocódigo:
 
-```plaintext
+```
 Entradas:
     f(x): función
     f'(x): derivada de f
@@ -115,7 +115,7 @@ Fórmula:
 
 Seudocódigo:
 
-```plaintext
+```
 Entradas:
     f(x): función
     x0, x1: valores iniciales
