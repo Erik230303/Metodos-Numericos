@@ -1,4 +1,6 @@
+--------------------------------------------------
 Tema 2 - Métodos para Resolver Ecuaciones
+--------------------------------------------------
 
 En este tema se estudian diferentes métodos numéricos utilizados para encontrar soluciones aproximadas de ecuaciones no lineales. Estos métodos permiten hallar raíces de funciones f(x) = 0 aplicando iteraciones sucesivas.
 
